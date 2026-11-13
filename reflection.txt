@@ -1,0 +1,10 @@
+Q1.What steps did you follow to create your webpage?
+Ans.First, I created an `index.html` file in VS Code. Then, I used an `<h1>` tag to write my name, a `<p>` tag for my introduction, and `<ul>` and `<li>` tags to list my hobbies. After that, I added links to websites using the `<a>` tag with the `href` attribute, and finally, I included an image using the `<img>` tag.
+Q2.Which HTML tags did you learn today?
+Ans.I learned HTML tags like html attributes, heading tags(h1, h2.. etc.), paragraph tag(<p>), Anchor tag(<a>), Image tag(<img>), br tag, Bold,Italic,Underline tags, hr tag, List in html (unorderd & orderd list) etc.   
+Q3.What difficulties did you face while completing the task?
+Ans.I faced some difficulties while understanding HTML tags and pushing my files to github.
+Q4.How did you solve difficulties?
+Ans.I resolved the difficulties with the help of Youtube videos and by using other resources. 
+Q5.What new things did you learn from this assignment?
+Ans.I learned how to create basic webpage, add images and create hyperlinks.
