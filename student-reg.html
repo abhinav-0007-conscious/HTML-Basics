@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student registration page</title>
+</head>
+<body>
+    <header>
+        <h1>Student Registration Form</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Registration Details</h2>
+
+            <form>
+                <label for="name"><b>Enter Name :</b></label>
+                <input type="text" id="name" placeholder="Full Name">
+
+                <label for="Email"><b>Enter Gmail :</b></label>
+                <input type="email"  id="Email" placeholder="Eamil Address">
+
+                <label for="Mobile no."><b>Contact No.</b></label>
+                <input type="tel" id="Mobile No." placeholder="Phone Number">
+                <br><br><br>
+                <label for="dob"><b>Date Of birth :</b></label>
+                <input type="date" id="dob" placeholder="DOB">
+                <br><br><br>
+                <label for="gendre"><b>Gendre :</b> </label>
+                <label for="id1">
+                    <input type="radio" value="Male" name="Gender" id="id1">Male
+                </label>
+                <label for="id2">
+                    <input type="radio" value="Female" name="Gender" id="id2">Female
+                </label>
+                <h4>Course :</h4>
+                <select name="course" id="course">
+                    <option value="CSE(Core)">CSE</option>
+                    <option value="CS(Artificial Intelligence)">CS-AI</option>
+                    <option value="CS(Artificial Intelligence with Machine Learning)">CS-AIML</option>
+                    <option value="CS(Data Science)">CS-DS</option>
+                    <option value="Information Technology">IT</option>
+                    <option value="Electronics And Communication Engineering">ECE</option>
+                </select>
+
+                <h4>Hobbies :</h4>
+                <label for="id3">
+                    <input type="checkbox" value="Coding" name="hobbies" id="id3">Coding
+                </label>
+                <label for="id4">
+                    <input type="checkbox" value="Litening to Music" name="hobbies" id="id4">Listening to Music
+                </label>
+                <label for="id5">
+                    <input type="checkbox" value="Playing cricket" name="hobbies" id="id5">Playing cricket
+                </label>
+                <label for="id6">
+                    <input type="checkbox" value="Reading Books" name="hobbies" id="id6">Reading Books
+                </label>
+                <label for="id7">
+                    <input type="checkbox" value="Travelling" name="hobbies" id="id7">Travelling
+                </label>
+
+                <h4>Address :</h4>
+                <textarea name="address" placeholder="Enter Your Address" rows="4" cols="30"></textarea>
+                <br><br><br>
+                <button type="submit">Submit</button>
+                <button type="reset">Resest</button>
+                
+                
+            </form>
+        </section>
+    
+        <section>
+            <h2>Academic Details</h2>
+
+            <table border="1" cellpadding="10" cellspacing="0">
+                <tr>
+                    <th>Student Name</th>
+                    <th>Roll Number</th>
+                    <th>Branch</th>
+                    <th>Semester</th>
+                    <th>College</th>
+                </tr>
+                <tr>
+                    <td>Abhinav Rajpoot</td>
+                    <td>2654123</td>
+                    <td>CS-AI</td>
+                    <td>1st</td>
+                    <td>PSIT Kanpur</td>
+                </tr>
+                <tr>
+                    <td>Vineet Kumar</td>
+                    <td>2654124</td>
+                    <td>CS-AIML</td>
+                    <td>2nd</td>
+                    <td>PSIT Kanpur</td>
+                </tr>
+                <tr>
+                    <td>Vishnu Gupta</td>
+                    <td>2654125</td>
+                    <td>CSE</td>
+                    <td>3rd</td>
+                    <td>PSIT Kanpur</td>
+                </tr>
+                
+            </table>
+        </section>
+        
+    </main>
+
+    <footer>
+        <p>Student registration Portal</p>
+    </footer>
+</body>
+</html>

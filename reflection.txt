@@ -1,3 +1,5 @@
+Project 1 :
+
 Q1.What steps did you follow to create your webpage?
 Ans.First, I created an `index.html` file in VS Code. Then, I used an `<h1>` tag to write my name, a `<p>` tag for my introduction, and `<ul>` and `<li>` tags to list my hobbies. After that, I added links to websites using the `<a>` tag with the `href` attribute, and finally, I included an image using the `<img>` tag.
 Q2.Which HTML tags did you learn today?
@@ -8,3 +10,16 @@ Q4.How did you solve difficulties?
 Ans.I resolved the difficulties with the help of Youtube videos and by using other resources. 
 Q5.What new things did you learn from this assignment?
 Ans.I learned how to create basic webpage, add images and create hyperlinks.
+
+Project 2 :
+
+Q1.What is the difference between radio buttons and checkbox?
+Ans.In the case of radio buttons, only one button can be selected, whereas with checkboxes, any number of boxes can be ticked.
+Q2.What is the purpose of the <lable> tag?
+Ans.The <label> tag is used to give a name or description to an input field. It makes forms easier to understand and use.
+Q3.What is the difference between <th> and <td>?
+Ans.<th> used to display table header and <td> used to display table data.
+Q4.Why do we use semantic HTML elements?
+Ans.We use semantic HTML elements to give meaning to the content and make the webpage easier to understand and maintain.
+Q5.Which part of today's task was most challlenging?
+Ans.Today, I faced significant difficulty while working on the task—specifically with adding borders and spacing to tables, and using labels.
