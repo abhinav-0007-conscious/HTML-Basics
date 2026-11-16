@@ -23,3 +23,16 @@ Q4.Why do we use semantic HTML elements?
 Ans.We use semantic HTML elements to give meaning to the content and make the webpage easier to understand and maintain.
 Q5.Which part of today's task was most challlenging?
 Ans.Today, I faced significant difficulty while working on the task—specifically with adding borders and spacing to tables, and using labels.
+
+Project 3 :
+
+Q1.What is CSS and why do we use it?
+Ans.CSS (Cascading Style Sheets) is a programming/development language used to make a webpage look beautiful and attractive.
+Q2.What is the difference between inline, internal and external CSS?
+Ans.Inline CSS is written inside an HTML element using the style attribute. Internal CSS is written inside the <style> tag in the head section. External CSS is written in a separate .css file and linked to HTML.
+Q3.What is the difference between class and ID selectors?
+Ans.A class selector can be used for multiple HTML elements, while an ID selector is used for a unique element. Class uses a dot (.) and ID uses a hash (#).
+Q4.Which CSS properties did you use today?
+Ans.I used color, background-color, font-family, font-size, font-weight, text-align, text-decoration, line-height and border-radius.
+Q5.What challenges did you face while styling your webpages?
+Ans.I faced difficulty in choosing suitable colours, adjusting heading sizes and styling links and images. I solved these problems by practising CSS properties.

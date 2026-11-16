@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    color:white;
+    background-color: #331E36;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    text-decoration: underline;
+    padding: 5px 20px;
+    
+}
+
+p {
+    text-align: center;
+    line-height: 30px;
+    font-size:larger;
+    color:#0b232e;
+    background-color:#cac7d5;;
+}
+
+#Heading{
+    color:#ECFEE8;
+    background-color:#331E36 ;
+    width: fit-content;
+    text-align: center;
+    padding: 5px 20px;
+    margin: 10px auto;
+
+}
+
+.hobby{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#1e3a5f;
+    font-size: 18px;
+    line-height: 2;
+}
+
+a{
+    color:#173b65;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+a:hover{
+    color:#e63946;
+    text-decoration: underline;
+}
+
+img{
+    
+    border-radius: 12px;
+    border:3px solid #1e3a5f;
+    box-shadow: 2px 2px 8px gray;
+}
+
+body{
+    background-color: #C2EFEB;
+}
