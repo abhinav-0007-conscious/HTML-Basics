@@ -36,3 +36,14 @@ Q4.Which CSS properties did you use today?
 Ans.I used color, background-color, font-family, font-size, font-weight, text-align, text-decoration, line-height and border-radius.
 Q5.What challenges did you face while styling your webpages?
 Ans.I faced difficulty in choosing suitable colours, adjusting heading sizes and styling links and images. I solved these problems by practising CSS properties.
+
+Project 4 :
+
+Q1.What is the CSS Box Model?
+Ans.The CSS Box Model describes how every HTML element is displayed as a rectangular box. It consists of content, padding, border, and margin.
+Q2.Difference betweenmargin and padding?
+Ans.Margin is the space outside the border.Padding is the space between content and border.
+Q3.Diffrerence between block and inline?
+Ans.Block elements start on a new line and take full available width.Inline elements do not start on a new line and take only the required width.
+Q4.Why do we use "box-sizing: border-box"?
+Ans.We use box-sizing: border-box to include padding and border inside the element's total width and height. It makes layout sizing easier.
